@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+.eggs/
+workspace/logs/*.log
+workspace/sessions/*.jsonl
