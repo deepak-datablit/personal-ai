@@ -6,3 +6,4 @@ __pycache__/
 .eggs/
 workspace/logs/*.log
 workspace/sessions/*.jsonl
+workspace/metrics/*.json
